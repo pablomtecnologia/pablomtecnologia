@@ -174,7 +174,4 @@ Hoy aplico esa mentalidad de precisión y fiabilidad al **desarrollo de software
 
 </div>
 
-<!-- Fondo dinámico inferior -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpldnN4NnBuMXl6d2JrZ29wdTF5d2Y3YWN4ZXFhdTlldGh1NnJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" height="160" alt="fondo animado"/>
-</p>
+
