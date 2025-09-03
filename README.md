@@ -118,9 +118,62 @@ Hoy aplico esa mentalidad de precisión y fiabilidad al **desarrollo de software
 ---
 
 ## ⚡ Habilidades técnicas
-```text
-Backend    ┃ Java · Spring Boot · .NET · Node.js · Python · PHP
-Frontend   ┃ Angular · React · Next.js · PrimeNG · TailwindCSS · Bootstrap
-BasesDatos ┃ PostgreSQL · SQL Server · MariaDB · MongoDB · Firebase
-DevOps     ┃ Docker · GitHub Actions · AWS EC2 · Linux · CI/CD · RabbitMQ
-Otros      ┃ Odoo REST API · iText PDF · Claris FileMaker · Claris Connect
+
+<!-- Fondo dinámico superior -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpldnN4NnBuMXl6d2JrZ29wdTF5d2Y3YWN4ZXFhdTlldGh1NnJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" height="160" alt="fondo animado"/>
+</p>
+
+<div align="center">
+
+### 🔧 Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="55" alt=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="PHP"/>
+
+---
+
+### 🎨 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="55" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="Bootstrap"/>
+
+---
+
+### 🗄️ Bases de datos  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="55" alt="MariaDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55" alt="Firebase"/>
+
+---
+
+### ⚙️ DevOps / Cloud  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="55" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Workflow-blue?style=for-the-badge" height="30" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/RabbitMQ-Messaging-orange?style=for-the-badge" height="30" alt="RabbitMQ"/>
+
+---
+
+### 📦 Otros  
+<img src="https://img.shields.io/badge/Odoo-REST%20API-7F3FBF?logo=odoo&logoColor=white" height="30" alt="Odoo"/>
+<img src="https://img.shields.io/badge/iText-PDF-1E90FF" height="30" alt="iText PDF"/>
+<img src="https://img.shields.io/badge/Claris-FileMaker-4A90E2" height="30" alt="Claris FileMaker"/>
+<img src="https://img.shields.io/badge/Claris-Connect-FF69B4" height="30" alt="Claris Connect"/>
+
+</div>
+
+<!-- Fondo dinámico inferior -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpldnN4NnBuMXl6d2JrZ29wdTF5d2Y3YWN4ZXFhdTlldGh1NnJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" height="160" alt="fondo animado"/>
+</p>
