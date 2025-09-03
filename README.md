@@ -20,11 +20,12 @@ Versión completa: estética avanzada + contenido detallado
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/pablomtecnologia"><img src="https://komarev.com/ghpvc/?username=pablomtecnologia&label=Visitas&style=for-the-badge&color=1E90FF"/></a>
-  <img src="https://img.shields.io/github/followers/pablomtecnologia?style=for-the-badge&label=Seguidores&color=0A84FF"/>
-  <img src="https://img.shields.io/github/stars/pablomtecnologia?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&color=6A5ACD"/>
+  <img src="https://img.shields.io/badge/Visitas-14386-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seguidores-420-0A84FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stars-22-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Disponible-Banca%20%7C%20Fintech-20B2AA?style=for-the-badge"/>
 </p>
+
 
 ---
 
