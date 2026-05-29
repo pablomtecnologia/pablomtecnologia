@@ -38,7 +38,7 @@ Combino la precisión del hardware industrial, la instrumentación de laboratori
 
 ## 🏢 Experiencia profesional
 
-### 🛰️ **Indra – Desarrollador de Firmware / Sistemas Embebidos** (2026 – Actualidad)
+### 🛰️ **Indra – Desarrollador de Firmware / Sistemas Embebidos** (2025 – Actualidad)
 - Desarrollo, integración y optimización de firmware para sistemas críticos de telecomunicaciones y defensa.
 - Automatización de pruebas de calibración y análisis de cadenas de transmisión de señal de radiofrecuencia (RF).
 - Gestión de instrumentación y optimización de potencia de salida mediante atenuadores dinámicos digitales.
